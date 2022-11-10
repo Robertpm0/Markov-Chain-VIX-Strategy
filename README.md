@@ -3,6 +3,7 @@ A markov chain analysis looking at the probability of up/down days following a s
 
 
 ## Motivation
+![ss](https://user-images.githubusercontent.com/95504207/201195956-2d4e4581-a77c-4082-9a7f-07b16ba125ac.PNG)
 https://twitter.com/zerohedge/status/1569348935357014016?s=20&t=kn1azbjUlhsLAMshFIxl1Q
 
 \- In this tweet from @zerohedge arises a common should I say, trade strategy, that I see many talk about
