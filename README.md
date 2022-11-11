@@ -61,7 +61,7 @@ and if the current price is higher than the day before we should see a decrease 
 
 My Results show that it is more likely for a up day following a down paradox day. This makes sense because the vix is fighting against time and $Q((k_i)$ so if the VIX is negative and the SPY is down this is a strong indcator investors are heavily buying options far away from the current price which could be assocaited to market confidence.
 
-On the other hand my results show that when there is an up paradox day it is actually more likley for their to be another up day, why is this? The options levels can remain the exact same and even increase indicating strength in the markets but if it is not enough to out preform the change in time and $Q((k_i)$, the vix will incerase anyways. 
+On the other hand my results show that when there is an up paradox day it is actually more likley for their to be another up day, why is this? The options levels can remain the exact same and even increase indicating strength in the markets but if it is not enough to out preform the change in time and $Q((k_i)$, the vix will incerase anyway, this could cause unnecessary shorting that could end up in a splurge of covering (buying) of the shares as the price continues to rise regaurdless of this vix increase. 
 
 \- the main thing that makes the up paradox a less biased trade is because there is more forces imapcting the VIX positively, meaning it takes alot less options activity to cause positive vix day, less options acitivty further away from prices doesent necesarily mean a crash, but when there is heavy options activity out of the money this is almost always a good thing for the market and the VIX captures this activity allowing us to detemrine if the market is confident in the future
 
