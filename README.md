@@ -1,6 +1,8 @@
 # Markov-Chain-VIX-Strategy
 4 state markov chain analysis looking at the probability of up/down days following a same direction move from the SPY &amp;&amp; CBOE VIX.
 
+(ran on data 2007 to current)
+
 ![mk35](https://user-images.githubusercontent.com/95504207/201275217-4252e55a-2c8d-4d98-8fb9-60a117eb6e29.png)
 
 Final results on an 80/20 split gave me a 27% return over the last 800 days no stop losses just buy on i and sell on i+1 ...
@@ -8,6 +10,8 @@ Final results on an 80/20 split gave me a 27% return over the last 800 days no s
 I plan to improve this strategy by implementing stop losses and potentially adding leverage later on....
 
 ### Things I still need to do
+
+\- test on entirety of spy and vix datasets. eg: before year 2000
 
 \-run strategy randomly chosen 20% samples to ensure profitability of strategy
 
